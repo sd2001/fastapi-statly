@@ -1,1 +1,1 @@
-poetry run uvicorn fastapi_shortener.src.config.init_app:app --reload
+poetry run uvicorn fastapi_shortener.src.config.init_app:app --port 4000 --reload
