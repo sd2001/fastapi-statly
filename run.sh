@@ -1,0 +1,1 @@
+poetry run uvicorn fastapi_shortener.src.config.init_app:app --reload
